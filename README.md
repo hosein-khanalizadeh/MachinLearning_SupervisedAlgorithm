@@ -9,4 +9,4 @@ Machin learning in python with ready function from scikit-learn
 #### روش خطای میانگین مربعات (Mean Squared Error : MSE)
 
 #### -
-الگوریتم ها از فانکشن های آماده پایتون هستند.
+**الگوریتم ها از فانکشن های آماده پایتون هستند**.
